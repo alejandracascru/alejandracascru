@@ -5,8 +5,10 @@ I work with Medical Imaging, Data-science and Computer Vision in Healthcare.
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandracastelblanco/)
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Zi4Y9j0AAAAJ&hl=en)
 
-I enjoy working with deep learning for image analysis and biomedical signal processing.
+
+I enjoy working with deep learning for image analysis, data-science and biomedical signal processing.
 
 My top programming languages:
 <br><br>
