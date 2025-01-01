@@ -8,7 +8,10 @@ I work with Medical Imaging, Data-science and Computer Vision in Healthcare.
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Zi4Y9j0AAAAJ&hl=en)
 
 
-I enjoy working with deep learning for image analysis, data-science and biomedical signal processing.
+My highlighted projects are:
+- Analysis of the newborn lung: Deep Learning for Segmentation of the Neonatal Lung in MRI and Classification of Disease Severity.
+- Video-based Heart Rate: RNN architecture for remote heart rate measurement using video for newborn care.
+- Automated reading of paper colorimetric sensors: Autoencoder architecture for denoising and performing latent space regression.
 
 My top programming languages:
 <br><br>
