@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Alejandra, I'm a PhD candidate in Informatics at the Technical University of Munich.
-I work with Medical Imaging, Data-science and Computer Vision in Healthcare.
+I work in Medical Imaging, Data Science, and Computer Vision to advance healthcare solutions.
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandracastelblanco/)
 
@@ -9,15 +9,15 @@ I work with Medical Imaging, Data-science and Computer Vision in Healthcare.
 
 
 My highlighted projects are:
-- Analysis of the newborn lung: Deep Learning for Segmentation of the Neonatal Lung in MRI and Classification of Disease Severity.
-- Video-based Heart Rate: RNN architecture for remote heart rate measurement using video for newborn care.
-- Automated reading of paper colorimetric sensors: Autoencoder architecture for denoising and performing latent space regression.
+- [Analysis of the newborn lung:](https://github.com/SchubertLab/NeoLUNet) Deep Learning for Segmentation of the Neonatal Lung in MRI and Classification of Disease Severity.
+- [Video-based Heart Rate:](https://github.com/SchubertLab/neonatal_video_heart_rate) RNN architecture for remote heart rate measurement using video for newborn care.
+- [Automated reading of paper colorimetric sensors:](https://github.com/SchubertLab/colorimetric_sensor_reading) Autoencoder architecture for denoising and performing latent space regression.
 
 My top programming languages:
 <br><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 Packages I have been excelling in with:
 <br><br>
@@ -37,6 +37,8 @@ Packages I have been excelling in with:
 <!--
 
 [![Aleja's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandracascru&layout=compact)](https://github.com/alejandracascru)
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **alejandracascru/alejandracascru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
