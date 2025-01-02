@@ -9,8 +9,8 @@ I work in Medical Imaging, Data Science, and Computer Vision to advance healthca
 
 
 My highlighted projects are:
-- [Analysis of the newborn lung:](https://github.com/SchubertLab/NeoLUNet) Deep Learning for Segmentation of the Neonatal Lung in MRI and Classification of Disease Severity.
-- [Video-based Heart Rate:](https://github.com/SchubertLab/neonatal_video_heart_rate) RNN architecture for remote heart rate measurement using video for newborn care.
+- [Analysis of the newborn lung:](https://github.com/SchubertLab/NeoLUNet) Deep Learning for Segmentation of the Neonatal Lung in MRI and Analysis of Lung Disease.
+- [Video-based Heart Rate:](https://github.com/SchubertLab/neonatal_video_heart_rate) RNN architecture for remote heart rate measurement using video input.
 - [Automated reading of paper colorimetric sensors:](https://github.com/SchubertLab/colorimetric_sensor_reading) Autoencoder architecture for denoising and performing latent space regression.
 
 My top programming languages:
@@ -18,6 +18,10 @@ My top programming languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+Containers and Cloud Computing: 
+<br><br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 Packages I have been excelling in with:
 <br><br>
