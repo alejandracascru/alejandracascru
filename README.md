@@ -1,9 +1,9 @@
-![Intro1](canvas.png)
+![Intro1](canvas2.png)
 
-## Hi there 👋
+## Hi there!
 
-I'm Alejandra, I'm a PhD candidate in Informatics at the Technical University of Munich.
-I work in Medical Imaging, Data Science, and Computer Vision to advance healthcare solutions.
+I'm Alejandra, a PhD candidate in Informatics at the Technical University of Munich.
+I have experience working in Medical Imaging, Data Science, and Computer Vision applied to healthcare.
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandracastelblanco/)
 
