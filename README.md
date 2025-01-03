@@ -1,3 +1,5 @@
+![Intro1](canvas.png)
+
 ## Hi there 👋
 
 I'm Alejandra, I'm a PhD candidate in Informatics at the Technical University of Munich.
