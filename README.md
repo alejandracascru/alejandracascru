@@ -3,7 +3,7 @@
 ## Hi there!
 
 I'm Alejandra, a Biomedical Engineer and  PhD candidate in Informatics at the Technical University of Munich.
-I have experience working in Medical Imaging, Data Science, and Computer Vision applied to healthcare.
+I have experience working in Medical Imaging, Data Science, Signal Processing and Computer Vision applied to healthcare.
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandracastelblanco/)
 
