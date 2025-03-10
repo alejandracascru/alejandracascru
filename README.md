@@ -15,10 +15,11 @@ My highlighted projects are:
 - [Video-based Heart Rate:](https://github.com/SchubertLab/neonatal_video_heart_rate) RNN architecture for remote heart rate measurement using video input.
 - [Automated reading of paper colorimetric sensors:](https://github.com/SchubertLab/colorimetric_sensor_reading) Autoencoder architecture for denoising and performing latent space regression.
 
-My top programming languages:
+My top programming language:
 <br><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+Other programming languages: SQL, JavaScript, R, C++
 
 Containers and Cloud Computing: 
 <br><br>
@@ -40,6 +41,8 @@ Packages I have been excelling in with:
 
 
 <!--
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 [![Aleja's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandracascru&layout=compact)](https://github.com/alejandracascru)
 
